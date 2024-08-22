@@ -8,6 +8,7 @@
     pkgs.sudo
     pkgs.openssh
     pkgs.busybox
+    pkgs.chromium
     # pkgs.go
     # pkgs.python311
     # pkgs.python311Packages.pip
